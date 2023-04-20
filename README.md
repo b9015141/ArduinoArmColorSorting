@@ -1,7 +1,7 @@
 # ArduinoArmColorSorting
 An Arduino Arm that sorts colours out using PixyMon2
 
-![alt text](https://github.com/[b9015141]/[ArduinoArmColorSorting]/RobotArm.jpg?raw=true)
+https://github.com/b9015141/ArduinoArmColorSorting/blob/main/RobotArmImg.jpg
 
 # Components used
 
